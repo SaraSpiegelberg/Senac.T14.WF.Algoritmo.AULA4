@@ -4,3 +4,4 @@
 - Operadores numericos
 - Palavras chave
 - Estrutura de projeto windows forms
+- Alteração
